@@ -23,7 +23,7 @@ class UI extends React.Component {
         <table>
           <thead>
             <tr>
-              <th>Game hash</th>
+              <th>Word hash</th>
               <th>Result</th>
             </tr>
           </thead>
