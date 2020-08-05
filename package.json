@@ -1,0 +1,19 @@
+{
+  "name": "fair-random-words",
+  "description": null,
+  "version": "0.0.1",
+  "dependencies": {
+    "crypto-js": "3.1.9-1",
+    "react": "16.0.0",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
